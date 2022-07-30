@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zu1uDe1ta
 - 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning R and the foundations of Machine Learning. 
+- 🌱 I’m currently learning the foundations of Machine Learning. 
 - 💞️ I’m looking to collaborate on Data Science or Machine Learning projects. 
 - 📫 Reach me by connecting on Linked in @: https://www.linkedin.com/in/chrischavez1/
 
